@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Banner](./banner.png)
+![Banner](https://github.com/AmyShackles/AmyShackles/blob/master/banner.png)
 
 ### Interested in full-stack software engineering roles and networking.
 
