@@ -15,13 +15,30 @@ Here are some ideas to get you started:
 -->
 ![Banner](https://github.com/AmyShackles/AmyShackles/blob/master/banner.png)
 
-### Interested in full-stack software engineering roles and networking.
+<h2 align="center">Interested in full-stack software engineering roles and networking.</h2>
 
-| Front-end Skills            	| Back-end Skills  	|
-|-----------------------------	|------------------	|
-| React                       	| Node.js          	|
-| Redux                       	| Express.js       	|
-| Vanilla JavaScript/HTML/CSS 	| MongoDB/Mongoose 	|
+<table width="100">
+  <thead>
+    <tr>
+      <th width="476">Front-end Skills</th>
+      <th width="476">Back-end Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">React</td>
+      <td align="center">Node.js</td>
+    </tr>
+    <tr>
+      <td align="center">Redux</td>
+      <td align="center">Express.js</td>
+    </tr>
+    <tr>
+      <td align="center">Vanilla JavaScript/HTML/CSS</td>
+      <td align="center">MongoDB/Mongoose</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Current project:
 - Working on [my second implementation of a regular expression parser](https://github.com/AmyShackles/regular_expression_parser), my first implmentation available [here](https://github.com/AmyShackles/parse_regex).  The general goal of the project is to be able to create a VSCode extension where a person can highlight a regular expression and have the extension generate a description of what that regular expression is matching against and append that to the end of the selected line as a code comment.  (The VSCode extension part of the plan is available [here](https://github.com/AmyShackles/vscode_extension_parseregex))
@@ -44,6 +61,19 @@ If you're looking for someone who:
 
 ... reach out.
 
-You can find me on [Twitter](https://twitter.com/amyshackles), [LinkedIn](https://www.linkedin.com/in/amyshackles/), or [DevRant](https://devrant.com/users/AmyShackles)
+<p align="center">
+  <a href="https://www.twitter.com/amyshackles">
+    <img align="left" src="https://github.com/AmyShackles/AmyShackles/blob/master/Twitter_Social_Icon_Circle_Color.png?raw=true" alt="Amy Shackles' Twitter profile" height="50" width="50">
+  </a>
+  <a href="https://www.linkedin.com/in/amyshackles/">
+    <img align="left" src="https://github.com/AmyShackles/AmyShackles/blob/master/LI-In-Bug.png?raw=true" alt="Amy Shackles' LinkedIn profile" height="50" width="50">
+  </a>
+    <a href="https://devrant.com/users/AmyShackles">
+    <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/DevRant_Logo.jpg" alt="Amy Shackles' devRant profile" height="50" width="50">
+  </a>
+  <a href="https://dev.to/amyshackles">
+    <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Amy Shackles's DEV Profile" height="52" width="52">
+  </a>
+</p>
 
-If you'd like to see more of my work and read more random facts about me, feel free to [visit my website](https://amyshackles.com).
+If you'd like to see more of my work and/or read random facts about me, [visit my website](https://amyshackles.com).
