@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - Working on [my second implementation of a regular expression parser](https://github.com/AmyShackles/regular_expression_parser), my first implmentation available [here](https://github.com/AmyShackles/parse_regex).  The general goal of the project is to be able to create a VSCode extension where a person can highlight a regular expression and have the extension generate a description of what that regular expression is matching against and append that to the end of the selected line as a code comment.  (The VSCode extension part of the plan is available [here](https://github.com/AmyShackles/vscode_extension_parseregex))
 
 ### Educational Pursuits:
-- Taking a course in computer security through [Roppers Academy](https://www.hoppersroppers.org/)
+- Currently on the backburner between job searching and building applications
 
 ### About Me
 I love solving other people's problems. It was the pursuit of this love that led me to double major in Psychology and Anthropology and what made the pivot to software engineering an exciting and rewarding one. While I don't use my college degree in a traditional sense, the communication and conflict resolution skills I acquired bring value to any team I'm a part of, as does my ability to see a situation from multiple perspectives at once.
