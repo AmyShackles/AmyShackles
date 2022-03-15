@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 ![Banner](https://github.com/AmyShackles/AmyShackles/blob/master/banner.png)
 
-<h2 align="center">Interested in full-stack software engineering roles and networking.</h2>
-
 <table width="100">
   <thead>
     <tr>
