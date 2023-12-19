@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 2022.10.24.12 https://api.sketch.io -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" sketchjs:metadata="eyJuYW1lIjoiRHJhd2luZy0xNi5za2V0Y2hwYWQiLCJzdXJmYWNlIjp7ImlzUGFpbnQiOnRydWUsIm1ldGhvZCI6ImZpbGwiLCJibGVuZCI6Im5vcm1hbCIsImVuYWJsZWQiOnRydWUsIm9wYWNpdHkiOjEsInR5cGUiOiJwYXR0ZXJuIiwicGF0dGVybiI6eyJ0eXBlIjoicGF0dGVybiIsInJlZmxlY3QiOiJuby1yZWZsZWN0IiwicmVwZWF0IjoicmVwZWF0Iiwic21vb3RoaW5nIjpmYWxzZSwic3JjIjoidHJhbnNwYXJlbnRMaWdodCIsInN4IjoxLCJzeSI6MSwieDAiOjAuNSwieDEiOjEsInkwIjowLjUsInkxIjoxfSwiaXNGaWxsIjp0cnVlfSwiY2xpcFBhdGgiOnsiZW5hYmxlZCI6dHJ1ZSwic3R5bGUiOnsic3Ryb2tlU3R5bGUiOiJibGFjayIsImxpbmVXaWR0aCI6MX19LCJkZXNjcmlwdGlvbiI6Ik1hZGUgd2l0aCBTa2V0Y2hwYWQiLCJtZXRhZGF0YSI6e30sImV4cG9ydERQSSI6NzIsImV4cG9ydEZvcm1hdCI6InNrZXRjaHBhZCIsImV4cG9ydFF1YWxpdHkiOjAuOTUsInVuaXRzIjoicHgiLCJ3aWR0aCI6MjAsImhlaWdodCI6MjAsInBhZ2VzIjpbeyJ3aWR0aCI6MjAsImhlaWdodCI6MjB9XSwidXVpZCI6IjAwOTE5YzA2LTY0YzMtNDk4My05MjBiLTQ0NWRlZTNjYzgxOSJ9" width="20" height="20" viewBox="0 0 20 20">
+<g style="mix-blend-mode: source-over;" sketchjs:tool="clipart" transform="matrix(0.038604341886961394,0,0,-0.038604341886961394,-5.748733929418986,21.260759924786296)">
+	<g sketchjs:uid="1" style="stroke: null;">
+		<ellipse id="svg_3" cx="408" cy="292" rx="256.99999" ry="255" sketchjs:uid="2" style="fill: #000000; stroke: #000000;"/>
+		<ellipse id="svg_2" cx="408.49998" cy="291.49999" rx="246.49998" ry="244.49998" sketchjs:uid="3" style="fill: #ffffff; stroke: #000000;"/>
+		<path id="svg_4" d="m369.47,292.03499l36.99999,-215.00001l36.99999,215.00001l-36.99999,215.00001l-36.99999,-215.00001z" transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,698.5050048828125,-114.43499755859375)" sketchjs:uid="4" style="fill: #000000; stroke: #000000;"/>
+		<path id="svg_1" d="m369.47,293.03499l36.99999,-215.00001l36.99998,215.00001l-36.99998,215.00001l-36.99999,-215.00001z" sketchjs:uid="5" style="fill: #000000; stroke: #000000;"/>
+		<path id="svg_6" d="m470.05004,412.31312l11.5,-113l11.5,113l-23,0z" transform="matrix(-0.5735764363510462,0.8191520442889917,-0.8191520442889917,-0.5735764363510462,1049.2206504513106,165.43627717907657)" sketchjs:uid="6" style="fill: #000000; stroke: #000000;"/>
+		<path id="svg_7" d="m326.05004,277.31312l11.5,-113l11.5,113l-23,0z" transform="matrix(0.7071067811865476,-0.7071067811865475,0.7071067811865475,0.7071067811865476,-57.272269742206504,303.35851672055287)" sketchjs:uid="7" style="fill: #000000; stroke: #000000;"/>
+		<path id="svg_8" d="m463.05004,278.31312l11.5,-113l11.5,113l-23,0z" transform="matrix(0.7071067811865476,0.7071067811865475,-0.7071067811865475,0.7071067811865476,295.83795237108444,-270.58998979887974)" sketchjs:uid="8" style="fill: #000000; stroke: #000000;"/>
+		<path id="svg_9" d="m319.05004,412.31312l11.5,-113l11.5,113l-23,0z" transform="matrix(-0.5735764363510462,-0.8191520442889917,0.8191520442889917,-0.5735764363510462,228.6807350919806,830.6696323473375)" sketchjs:uid="9" style="fill: #000000; stroke: #000000;"/>
+	</g>
+</g>
+</svg>
